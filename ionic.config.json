@@ -1,0 +1,8 @@
+{
+  "name": "kj-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "a211bab7"
+}
